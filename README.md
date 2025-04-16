@@ -1,4 +1,5 @@
 📊 Simple Data Dashboard
+
 An interactive and beginner-friendly data dashboard built using Streamlit. Upload your CSV file, explore a quick preview and summary of the data, filter rows based on column values, and generate simple line plots — all through a clean web interface.
 
 🚀 Features
@@ -49,5 +50,3 @@ Ideal for small to medium datasets for quick exploration.
 
 📝 License
 MIT License. Feel free to use, modify, and share! 🚀
-
-Let me know if you'd like a v
